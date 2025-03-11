@@ -231,7 +231,6 @@ export function changeQuestionTypeById(
  * Remember, if a function starts getting too complicated, think about how a helper function
  * can make it simpler! Break down complicated tasks into little pieces.
  */
-
 export function editOption(
     questions: Question[],
     targetId: number,
